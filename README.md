@@ -1,7 +1,6 @@
 # Soraia
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soraia-gomes-11204623b)
-[![DIO.me](https://github.com/Renan-Marcelino/Renan-Marcelino/assets/79055100/8758238b-0414-46da-882c-4fd304e716b5)](https://www.dio.me/users/soraiasantosgomes1)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soraia01&show_icons=true&theme=synthwave)
 
